@@ -1,1 +1,4 @@
-
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Home Assistant Add-on: TeslaMate
+url: 'https://github.com/lildude/ha-addon-teslamate'
+maintainer: Colin Seymour <@lildude>
